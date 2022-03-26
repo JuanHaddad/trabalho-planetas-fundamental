@@ -1,0 +1,40 @@
+Urano é o sétimo planeta a partir do Sol e é o terceiro maior no sistema solar.
+O metano na alta atmosfera absorve a luz vermelha, dando a Urano a sua cor azul-esverdeada.
+A atmosfera está organizada em nuvens que se mantêm em altitudes constantes, semelhantes à orientação das faixas latitudinais vistas em Júpiter e Saturno.
+s ventos a meia-latitude em Urano sopram na direcção da rotação do planeta. Estes ventos sopram a velocidades de 40 a 160 metros por segundo (90 a 360 milhas
+ por hora). Experiência com sinais de rádio registaram ventos de cerca de 100 metros por segundo soprando na direcção oposta no equador.
+Urano distingue-se pelo facto de estar inclinado para um lado. Pensa-se que a sua posição invulgar é resultado da colisão com um corpo do tamanho
+ de um planeta no início da história do sistema solar.
+A origem do campo magnético é desconhecida; O oceano de água e amónia electricamente condutivo e super-pressurizado que se pensava estar entre o núcleo e
+ a atmosfera, vê-se agora que não existe.
+Crê-se que os campos magnéticos da Terra e de outros planetas provêm de correntes eléctricas produzidas pelos seus núcleos fundidos.
+Os anéis de Urano são muito diferentes dos de Júpiter e Saturno.
+O anel épsilon exterior é composto principalmente por blocos de gelo com vários pés de diâmetro.
+Pode existir um grande número de anéis estreitos, ou possivelmente anéis incompletos ou arcos de anéis, tão pequenos quanto 50 metros (160 pés) de largura.
+ Descobriu-se que as partículas individuais dos anéis são de baixa reflectividade.
+
+Massa: 8,681 × 10^25 kg
+
+Translação: 84 anos
+
+Rotação: 17 horas 52 minutos
+
+Idade: 4,503 × 10^9 anos
+
+Diâmetro: 50.724 km
+
+Gravidade: 8,69 m/s²
+
+Velocidade Orbital: 6.81
+
+Distância do Sol: 2.850.000.000 km
+
+Temperatura média das nuvens: -193°C
+
+Densidade: 1.29gm/cm^3
+
+Composição atmosférica:Hidrogénio 83%
+                                                   Hélio 15%
+                                                   Metano 2%
+
+Satélites Naturais: 15

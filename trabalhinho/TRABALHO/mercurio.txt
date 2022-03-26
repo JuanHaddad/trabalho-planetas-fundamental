@@ -1,0 +1,59 @@
+Mercúrio teve o seu nome atribuído pelos romanos baseado no mensageiro dos deuses, de asas nos pés, porque
+ parecia mover-se mais depressa do que qualquer outro planeta.
+É o planeta mais próximo do Sol, e o segundo mais pequeno do sistema solar. O seu diâmetro é 40% mais pequeno
+ do que o da Terra e 40% maior do que o da Lua. É até mais pequeno do que Ganímedes, uma das luas de Júpiter e Titan
+ uma lua de Saturno
+Se um explorador andasse pela superfície de Mercúrio, veria um mundo semelhante ao solo lunar.
+O explorador notaria que o Sol parece duas vezes e meia maior do que na Terra; no entanto, o céu é sempre negro porque
+ Mercúrio praticamente não tem atmosfera que seja suficiente para causar a dispersão da luz. Se o explorador olhasse
+ fixamente para o espaço, veria duas estrelas brilhantes. Veria uma com tonalidade creme, Vênus, e a outra azul, a Terra.
+Antes da Mariner 10, pouco era conhecido sobre Mercúrio por causa da dificuldade de o observar com os telescópios,
+ da Terra. Na máxima distância, visto da Terra, está apenas a 28 graus do Sol. Por isso, só pode ser visto durante
+ o dia ou imediatamente antes do nascer-do-Sol ou imediatamente depois do pôr-do-Sol.
+Apesar de Mercúrio não estar preso ao Sol, o seu período de rotação está relacionado com o período orbital.
+ Mercúrio roda uma vez e meia por cada órbita. Por causa desta relação de 3:2, um dia em Mercúrio (desde o nascer do Sol
+ até ao nascer do Sol do dia seguinte) dura 176 dias terrestres
+No passado distante de Mercúrio, o seu período de rotação deve ter sido menor. Os cientistas especularam que a rotação
+ deve ter sido de cerca de 8 horas, mas ao longo de milhões de anos foi gradualmente retardando por influência do Sol
+Muitas das descobertas científicas sobre Mercúrio vêm da sonda espacial Mariner 10 que foi lançada em 3 de Novembro de 1973.
+os cientistas não suspeitavam que Mercúrio tinha um campo magnético. Eles pensavam que, por Mercúrio ser pequeno, o seu núcleo
+ teria solidificado há muito tempo.
+A Mariner 10 mostrou que Mercúrio tem um campo magnético que é 1% mais forte que o da Terra, sendo que não sabemos a origem 
+deste campo.
+Num estado não comprimido a densidade de Mercúrio é 5.5 g/cm3 enquanto a da Terra é apenas 4.0 g/cm3.
+Esta alta densidade indica que o planeta é constituído por 60 a 70 por cento em peso de metal e 30 por cento em peso
+ de silicatos. Isto dá um núcleo com um raio de 75% do raio do planeta e um volume do núcleo de 42% do volume do planeta.
+A maior cratera em Mercúrio é a bacia Caloris Planitia.A maior parte da superfície de Mercúrio está coberta de planícies.
+ Muitas delas são antigas e crivadas de crateras, mas algumas das planícies têm menos crateras.
+Os cientistas classificaram estas planícies como planícies intercrateras e planícies suaves. Planícies intercrateras
+ estão menos saturadas de crateras que têm menos de 15 quilómetros de diâmetro.
+A história da formação de Mercúrio é semelhante à da Terra. Logo no início desta formação, Mercúrio provavelmente ficou
+ com um núcleo metálico denso e uma crusta de silicatos.Depois do intenso período de bombardeamento, correntes de lava percorreram
+ o planeta e cobriram a crusta mais antiga.
+
+Massa:3,30 × 10^23
+
+Translação:87,969 dias 
+
+Rotação:58,6462 dias
+
+Idade:4,503 × 10^9 anos
+
+Diâmetro:4.879 km
+
+Gravidade:3,7 m/s²
+
+Velocidade Orbital: 47,362 km/s
+
+Distância do Sol:57.910.000 km
+
+Temperatura Média(C):179°C 
+
+Densidade:5,4
+
+Composição atmosférica:Hélio 42%
+                        Sódio 42%
+                        Oxigênio (O2) 15% 
+                        Outros 1%
+
+Satélites Naturais: Não possui

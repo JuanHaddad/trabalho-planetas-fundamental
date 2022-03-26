@@ -1,0 +1,27 @@
+Saturno é o sexto planeta a partir do Sol, e é o segundo maior do sistema solar.Saturno é visivelmente achatado nos pólos, devido a rotação muito rápida do planeta em torno de seu próprio eixo.
+Saturno é o único planeta menos denso que a água (cerca de 30 porcento menos).
+No hipotético caso de um oceano grande o suficiente ser encontrado, Saturno iria flutuar nele.
+O vento sopra em altas velocidades em Saturno. Próximo ao equador, ele atinge velocidades de 500 metros por segundo
+ (1.100 milhas por hora).
+ O vento sopra principalmente na direção leste. Os ventos mais fortes são encontram-se próximos ao equador, e a velocidade diminui uniformemente com o aumento da latitude.
+ Em latitudes maiores que 35 graus, ventos alternam sua direção de leste para oeste conforme a latitude aumenta.
+O sistema de anéis de Saturno faz do planeta um dos mais belos objetos do sistema solar.
+Os anéis estão divididos em um número de diferentes partes, incluindo os brilhantes anéis A e B, e o anel C, mais tênue.
+O sistema de anéis tem várias fendas. A fenda mais notável é a Divisão Cassini, que separa os anéis A e B.
+A origem dos anéis é obscura. Pensa-se que os anéis podem ter sido formados de luas maiores que foram despedaçadas porimpactos de cometas e meteoróides.
+A composição dos anéis não é conhecida com certeza, mas os anéis exibem uma quantidade significante de água.
+Eles podem ser compostos de icebergs e/ou bolas de gelo de poucos centímetros a poucos metros de dimensão. Muito daelaborada estrutura de alguns dos anéis é devida aos efeitos gravitacionais dos satélites próximos.
+DADOS DE SATURNO
+Massa: 5,683 × 10^26 kg
+Translação: 12 anos terrestres.
+Rotação: 9 horas e 55 minutos
+Idade: 4,503 × 10^9 anos
+Diâmetro: 116.464 km
+Gravidade: 10,44 m/s²
+Velocidade Orbital: 9.67 km/seg
+Distância do Sol: 1.429.400.000 km
+Temperatura média das nuvens: -125°C
+Densidade: 0.69 gm/cm^3
+Composição atmosférica: Hidrogénio 97%
+Hélio 3%
+Satélites Naturais: 18

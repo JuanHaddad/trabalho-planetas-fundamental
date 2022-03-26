@@ -1,0 +1,25 @@
+Da perspectiva na Terra, o nosso planeta parece ser grande e robusto, com um oceano interminável de ar. Do espaço, os astronautas muitas vezes têm a impressão de que a Terra é pequena, e tem uma fina e frágil camada de atmosfera. Para um viajante do espaço, as características que distinguem a Terra são as águas azuis, as massas deterra verdes e castanhas, e o conjunto de nuvens brancas contra um fundo negro.
+Muitos sonham em viajar pelo espaço e ver as maravilhas do universo. Na realidade, todos nós somos viajantes espaciais. A nossa nave é o planeta Terra, viajando a uma velocidade de 108.000 quilómetros (67.000 milhas) por hora.
+Tem um diâmetro de 12.756 quilómetros (7.973 milhas), apenas poucas centenas de quilómetros maior que o de Vénus.
+O núcleo do nosso planeta, de níquel-ferro fundido girando rapidamente, provoca um extenso campo magnético que, junto com a atmosfera, nos protege de praticamente toda a radiação prejudicial vinda do Sol e outras estrelas.
+ A atmosfera da Terra protege-nos dos meteoros, cuja maioria se queima antes de poder atingir a superfície.O primeiro satélite Norte-americano, Explorer 1, descobriu uma intensa zona de radiação, agora chamada de cintura de radiação de Van Allen.
+Esta cintura é formada por uma camada de partículas carregadas que são capturadas pelo campo magnético da Terra numa região, de formato toroidal, em volta do equador.
+Outras descobertas feitas por satélites mostram que o campo magnético do nosso planeta é distorcido, tendo uma forma de gota, devido ao vento solar. Também sabemos agora que a nossa fina atmosfera superior, a qual se acreditava ser calma e sem incidentes, ferve de actividade -- expandindo-se de dia e contraindo-se à noite.
+A atmosfera superior, afectada pelas mudanças na actividade solar, contribui para o clima e meteorologia na Terra.
+Além de afectar a meteorologia da Terra, a actividade solar causa um dramático fenómeno visual na nossa atmosfera. 
+Quando as partículas carregadas do vento solar são capturadas pelo campo magnético da Terra, colidem com asmoléculas de ar da nossa atmosfera acima dos pólos magnéticos do planeta. Estas moléculas de ar tornam-seentão incandescentes e são assim conhecidas como auroras ou luzes do norte e do sul.
+DADOS DA TERRA
+Massa: 5,9742 × 10^24 kg
+Translação: 365dias e 6hrs
+Rotação: 23hrs e 56min
+Idade: 4,543 × 10^9 anos
+Diâmetro: 12.742 km
+Gravidade: 9,807 m/s²
+Velocidade Orbital: 107 200 km/h 29,78 km/s
+Distância do Sol: 149.600.000 km
+Temperatura média: 14°C
+Densidade: 5,51 g/cm³
+Composição atmosférica:  Azoto 77%
+                                                    Oxigénio 21%
+                                                    Outros 2%
+Satélites Naturais: 1 Lua

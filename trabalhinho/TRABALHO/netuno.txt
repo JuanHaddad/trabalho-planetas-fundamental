@@ -1,0 +1,42 @@
+Netuno é o planeta mais externo dos gigantes de gás.Se Netuno fosse oco, poderia conter cerca de 60 Terras.
+Os primeiros dois terços de Netuno são compostos por uma mistura de rocha fundida, água, amónia líquida e metano.
+O terço externo é uma mistura de gases aquecidos compostos por hidrogénio, hélio, água e metano. O metano dá a Netuno a sua cor de nuvem azul.
+etuno é um planeta dinâmico com diversas manchas grandes e escuras, lembrando as tempestades, tipo furacões, de Jupiter.
+A maior mancha, conhecida por Grande Mancha Escura, tem aproximadamente o tamanho da Terra e é semelhante à Grande Mancha Vermelha de Júpiter. 
+A Voyager mostrou uma nuvem pequena, de forma irregular, movendo-se para leste correndo à volta de Netuno a cada 16 horas ou quase.
+Foram vistas na atmosfera de Netuno nuvens grandes e brilhantes, semelhantes às nuvens cirros terrestres. A latitudes norte mais baixas, a Voyager 
+capturou imagens de raios de nuvens projectando as suas sombras nas formações de nuvens mais baixas.
+Os ventos mais fortes de qualquer planeta foram medidos em Netuno. Muitos dos ventos sopram na direcção oeste, oposta à rotação do planeta.
+Perto da Grande Mancha Escura, os ventos sopram próximo dos 2,000 km (1,200 milhas) por hora.
+Netuno tem um conjunto de quatro anéis que são estreitos e muito fracos.
+ Os anéis são constituídos por partículas de pó, que se pensava terem surgido de pequenos meteoritos que se esmagaram nas luas de Netuno. 
+Vistos de telescópios terrestres, os anéis parecem ser arcos, mas vistos da Voyager 2 os arcos surgem como manchas brilhantes ou aglomerações no sistema de anéis.
+A causa exacta das aglomerações brilhantes é desconhecida.
+O campo magnético de Netuno, tal como o de Úrano, tem uma inclinação muito acentuada de 47 graus em relação ao eixo de rotação e está deslocado de pelo menos 
+0.55 raios (cerca de 13,500 quilómetros ou 8,500 milhas) do centro físico.
+
+Massa: 1,024 × 10^26 kg
+
+Translação: 164 anos
+
+Rotação: 16 horas 11 minutos
+
+Idade: 4,503 × 10^9 anos
+
+Diâmetro: 49.244 km
+
+Gravidade: 11,15 m/s²
+
+Velocidade Orbital: 5.45km/seg
+
+Distância do Sol:  4.500.000.000 km
+
+Temperatura média das nuvens: -193 a -153°C
+
+Densidade: 1.64gm/cm^3
+
+Composição atmosférica: Hidrogénio 85%
+                                                    Hélio 13%
+                                                    Metano 2%
+
+Satélites Naturais: 8

@@ -1,0 +1,63 @@
+Marte é o quarto planeta partindo do Sol e é normalmente referido como o Planeta Vermelho, tem 2 luas denominadas
+fobos e deimos
+As rochas, solo e céu têm uma tonalidade vermelha ou rosa.
+Os romanos atribuíram-lhe este nome, em honra ao deus da guerra. Outras civilizações deram-lhe nomes semelhantes.
+ Os antigos egípcios chamaram-lhe Her Descher que significa o vermelho.
+Antes da exploração espacial, Marte era considerado o melhor candidato para ter vida extra-terrestre.
+ Os astrónomos pensaram ver linhas rectas que se cruzavam na superfície. Isto levou à crença popular que seres 
+inteligentes construíram canais de irrigação. Em 1938, quando Orson Welles transmitiu uma novela por rádio baseada 
+num clássico de ficção científica A Guerra dos Mundos de H.G. Wells, muita gente acreditou na história da invasão dos
+ marcianos, o que quase chegou a causar uma situação de pânico.
+Outra razão para os cientistas acreditarem na existência de vida em Marte tinha a ver com as aparentes alterações 
+periódicas de cores na superfície do planeta. Este fenómeno levou à especulação de que determinadas condições levariam
+ à explosão de vegetação marciana durante os meses quentes e provocavam o estado latente das plantas durante os períodos frios.
+Em Julho de 1965, a Mariner 4 transmitiu 22 fotografias de perto de Marte. Foi revelada unicamente uma superfície
+ contendo muitas crateras e canais naturais mas nenhuma evidência de canais artificiais ou água corrente. Finalmente,
+ em Julho e Setembro de 1976, as sondas Viking 1 e 2 pousaram na superfície de Marte. As três experiências biológicas
+ realizadas a bordo das sondas descobriram actividade química inesperada e enigmática no solo marciano, mas não forneceram
+ qualquer evidência clara da presença de microorganismos vivos no solo perto dos locais onde poisaram. De acordo com os
+ biologistas da missão, Marte é auto-esterilizante. Eles acreditam que a combinação da radiação solar ultravioleta que
+ satura a superfície, a extrema secura do solo e a natureza oxidante da química do solo impedem a formação de organismos
+ vivos no solo marciano. A questão de ter havido vida em Marte em algum passado distante permanece contudo aberta.
+Outros instrumentos não encontraram sinais de química orgânica nos seus locais de poiso, mas forneceram uma análise
+ definitiva e precisa da composição da atmosfera marciana e encontraram traços de elementos que não tinham sido
+ previamente detectados.
+O ar marciano contém apenas cerca de 1/1,000 da água do nosso ar, mas mesma esta pequena porção pode condensar,
+ formando nuvens que flutuam a uma grande altitude na atmosfera ou giram em volta dos vulcões mais altos. Podem-se
+ formar bancos de neblina matinal nos vales.
+Há evidências de que no passado uma atmosfera marciana mais densa pode ter permitido que a água corresse no planeta.
+ Características físicas muito parecidas com costas, gargantas, leitos de rios e ilhas sugerem que alguma vez existiram
+ grandes rios no planeta.
+
+Massa: 6,39 × 10^23 kg
+
+Translação: 686,98 dias.
+
+Rotação: 24 horas e 37 minutos 
+
+Idade: 4,503 × 10^9 anos
+
+Diâmetro: 6.779 km
+
+Gravidade: 3,711 m/s²
+
+Velocidade Orbital: 24,13 km/s.
+
+Distância do Sol: 228.000.000 km (média)
+
+Temperatura média:  -63° C (-81° F)
+
+Densidade: 3.94 (gm/cm^3)
+
+Composição atmosférica: Dióxido de Carbono (C02)=95.32% 
+                                                    Azoto (N2)=2.7% 
+                                                    Árgon (Ar)=1.6% 
+                                                    Oxigénio (O2)=0.13% 
+                                                    Monóxido de Carbono (CO)=0,07%
+                                                    Água (H2O)=0.03% 
+                                                    Néon (Ne)=0.00025% 
+                                                    Kripton (Kr)=0.00003% 
+                                                    Xénon (Xe)=0.000008% 
+                                                    Ozono (O3)=0.000003%
+
+Satélites Naturais: 2
